@@ -1,1 +1,1 @@
-To run DNArepeats.py script place genomic DNA of _Listeria monocytogenes_ genom in C:/LM.txt catalog.
+To run DNArepeats.py script place genomic DNA of _Listeria monocytogenes_ genom in C:/LM.txt catalog. Default values like genome, length of repeated DNA sequence motif and andjustement of minimal number of repetitions can be modified by user selection in DNArepeats.py script.
